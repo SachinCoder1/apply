@@ -68,7 +68,7 @@ DotPassport adds a missing identity and reputation layer to the Polkadot ecosyst
 
 * **Team Name:** DotPassport Labs
 * **Contact Name:** Sachin Gurjar
-* **Contact Email:** [sachin@dappfoundery.xyz](mailto:sachinhlo232@gmail.com)
+* **Contact Email:** [contact@sachingurjar.com](mailto:contact@sachingurjar.com)
 * **GitHub:** [https://github.com/sachincoder1](https://github.com/sachincoder1)
 
 ### Team members
